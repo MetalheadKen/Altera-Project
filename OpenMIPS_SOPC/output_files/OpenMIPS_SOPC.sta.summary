@@ -1,0 +1,173 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'CLOCK_27'
+Slack : -19.341
+TNS   : -27470.714
+
+Type  : Slow Model Setup 'openmips_min_sopc:openmips0|openmips:openmips0|id_ex:id_ex0|ex_aluop[0]'
+Slack : -15.271
+TNS   : -1783.588
+
+Type  : Slow Model Setup 'openmips_min_sopc:openmips0|openmips:openmips0|LLbit_reg:LLbit_reg0|LLbit_o'
+Slack : -4.165
+TNS   : -174.851
+
+Type  : Slow Model Setup 'openmips_min_sopc:openmips0|openmips:openmips0|cp0_reg:cp0_reg0|cause_o[8]'
+Slack : -3.728
+TNS   : -229.102
+
+Type  : Slow Model Setup 'openmips_min_sopc:openmips0|openmips:openmips0|mem_wb:mem_wb0|wb_cp0_reg_we'
+Slack : -3.507
+TNS   : -213.028
+
+Type  : Slow Model Setup 'openmips_min_sopc:openmips0|flash_top:flash_top0|wb_ack_o'
+Slack : -2.576
+TNS   : -76.990
+
+Type  : Slow Model Setup 'openmips_min_sopc:openmips0|openmips:openmips0|ex:ex0|cp0_reg_read_addr_o[0]'
+Slack : -2.515
+TNS   : -65.095
+
+Type  : Slow Model Hold 'openmips_min_sopc:openmips0|openmips:openmips0|mem_wb:mem_wb0|wb_cp0_reg_we'
+Slack : -7.464
+TNS   : -612.665
+
+Type  : Slow Model Hold 'openmips_min_sopc:openmips0|openmips:openmips0|cp0_reg:cp0_reg0|cause_o[8]'
+Slack : -6.983
+TNS   : -565.202
+
+Type  : Slow Model Hold 'openmips_min_sopc:openmips0|openmips:openmips0|id_ex:id_ex0|ex_aluop[0]'
+Slack : -5.252
+TNS   : -715.006
+
+Type  : Slow Model Hold 'openmips_min_sopc:openmips0|flash_top:flash_top0|wb_ack_o'
+Slack : -4.839
+TNS   : -137.561
+
+Type  : Slow Model Hold 'openmips_min_sopc:openmips0|openmips:openmips0|LLbit_reg:LLbit_reg0|LLbit_o'
+Slack : -4.547
+TNS   : -267.612
+
+Type  : Slow Model Hold 'CLOCK_27'
+Slack : -3.203
+TNS   : -6.254
+
+Type  : Slow Model Hold 'openmips_min_sopc:openmips0|openmips:openmips0|ex:ex0|cp0_reg_read_addr_o[0]'
+Slack : -2.946
+TNS   : -72.154
+
+Type  : Slow Model Minimum Pulse Width 'openmips_min_sopc:openmips0|openmips:openmips0|mem_wb:mem_wb0|wb_cp0_reg_we'
+Slack : -2.449
+TNS   : -1591.862
+
+Type  : Slow Model Minimum Pulse Width 'openmips_min_sopc:openmips0|openmips:openmips0|cp0_reg:cp0_reg0|cause_o[8]'
+Slack : -2.030
+TNS   : -1124.584
+
+Type  : Slow Model Minimum Pulse Width 'CLOCK_27'
+Slack : -1.627
+TNS   : -4439.080
+
+Type  : Slow Model Minimum Pulse Width 'openmips_min_sopc:openmips0|flash_top:flash_top0|wb_ack_o'
+Slack : -0.477
+TNS   : -63.918
+
+Type  : Slow Model Minimum Pulse Width 'openmips_min_sopc:openmips0|openmips:openmips0|id_ex:id_ex0|ex_aluop[0]'
+Slack : 0.365
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'openmips_min_sopc:openmips0|openmips:openmips0|LLbit_reg:LLbit_reg0|LLbit_o'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'openmips_min_sopc:openmips0|openmips:openmips0|ex:ex0|cp0_reg_read_addr_o[0]'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Setup 'CLOCK_27'
+Slack : -7.189
+TNS   : -10131.039
+
+Type  : Fast Model Setup 'openmips_min_sopc:openmips0|openmips:openmips0|id_ex:id_ex0|ex_aluop[0]'
+Slack : -5.547
+TNS   : -635.208
+
+Type  : Fast Model Setup 'openmips_min_sopc:openmips0|openmips:openmips0|LLbit_reg:LLbit_reg0|LLbit_o'
+Slack : -1.500
+TNS   : -43.526
+
+Type  : Fast Model Setup 'openmips_min_sopc:openmips0|openmips:openmips0|cp0_reg:cp0_reg0|cause_o[8]'
+Slack : -1.313
+TNS   : -68.412
+
+Type  : Fast Model Setup 'openmips_min_sopc:openmips0|openmips:openmips0|mem_wb:mem_wb0|wb_cp0_reg_we'
+Slack : -1.205
+TNS   : -60.056
+
+Type  : Fast Model Setup 'openmips_min_sopc:openmips0|flash_top:flash_top0|wb_ack_o'
+Slack : -0.777
+TNS   : -22.301
+
+Type  : Fast Model Setup 'openmips_min_sopc:openmips0|openmips:openmips0|ex:ex0|cp0_reg_read_addr_o[0]'
+Slack : -0.469
+TNS   : -8.746
+
+Type  : Fast Model Hold 'openmips_min_sopc:openmips0|openmips:openmips0|mem_wb:mem_wb0|wb_cp0_reg_we'
+Slack : -3.668
+TNS   : -310.600
+
+Type  : Fast Model Hold 'openmips_min_sopc:openmips0|openmips:openmips0|cp0_reg:cp0_reg0|cause_o[8]'
+Slack : -3.413
+TNS   : -286.120
+
+Type  : Fast Model Hold 'openmips_min_sopc:openmips0|openmips:openmips0|id_ex:id_ex0|ex_aluop[0]'
+Slack : -2.799
+TNS   : -408.941
+
+Type  : Fast Model Hold 'openmips_min_sopc:openmips0|flash_top:flash_top0|wb_ack_o'
+Slack : -2.458
+TNS   : -71.850
+
+Type  : Fast Model Hold 'openmips_min_sopc:openmips0|openmips:openmips0|LLbit_reg:LLbit_reg0|LLbit_o'
+Slack : -2.332
+TNS   : -130.020
+
+Type  : Fast Model Hold 'CLOCK_27'
+Slack : -1.771
+TNS   : -13.885
+
+Type  : Fast Model Hold 'openmips_min_sopc:openmips0|openmips:openmips0|ex:ex0|cp0_reg_read_addr_o[0]'
+Slack : -1.680
+TNS   : -44.028
+
+Type  : Fast Model Minimum Pulse Width 'CLOCK_27'
+Slack : -1.627
+TNS   : -4439.080
+
+Type  : Fast Model Minimum Pulse Width 'openmips_min_sopc:openmips0|openmips:openmips0|mem_wb:mem_wb0|wb_cp0_reg_we'
+Slack : -0.843
+TNS   : -478.184
+
+Type  : Fast Model Minimum Pulse Width 'openmips_min_sopc:openmips0|openmips:openmips0|cp0_reg:cp0_reg0|cause_o[8]'
+Slack : -0.627
+TNS   : -277.880
+
+Type  : Fast Model Minimum Pulse Width 'openmips_min_sopc:openmips0|flash_top:flash_top0|wb_ack_o'
+Slack : 0.064
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'openmips_min_sopc:openmips0|openmips:openmips0|id_ex:id_ex0|ex_aluop[0]'
+Slack : 0.428
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'openmips_min_sopc:openmips0|openmips:openmips0|LLbit_reg:LLbit_reg0|LLbit_o'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'openmips_min_sopc:openmips0|openmips:openmips0|ex:ex0|cp0_reg_read_addr_o[0]'
+Slack : 0.500
+TNS   : 0.000
+
+------------------------------------------------------------

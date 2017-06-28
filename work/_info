@@ -1,0 +1,105 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\15.0
+vDIVIDER
+Z1 !s100 VRkZ8KG0BdAPkfgl9K?N72
+Z2 I<0=Q;KJ8lJR1@=U^>amM12
+Z3 V1kU@EC2hLZS8[g5cL<Da01
+Z4 dD:\Altera_Project
+Z5 w1479871670
+Z6 8D:/Altera_Project/FSM_RGY_LIGHT.v
+Z7 FD:/Altera_Project/FSM_RGY_LIGHT.v
+L0 19
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s108 1479872848.643000
+Z10 !s107 D:/Altera_Project/FSM_RGY_LIGHT.v|
+Z11 !s90 -reportprogress|300|-work|work|D:/Altera_Project/FSM_RGY_LIGHT.v|
+Z12 o-work work -O0
+Z13 n@d@i@v@i@d@e@r
+!i10b 1
+!s85 0
+!s101 -O0
+vFSM_RGY_LIGHT
+Z14 !s100 N]ocCc=L_4YRT^AY>FmL=0
+Z15 If20FcSSU[PX1dT=ImN[zz0
+Z16 V;FN]5Nm8Cdf?Y>oSkQEj63
+R4
+R5
+R6
+R7
+L0 2
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z17 n@f@s@m_@r@g@y_@l@i@g@h@t
+!i10b 1
+!s85 0
+!s101 -O0
+vFSM_RGY_LIGHT_TB
+!i10b 1
+Z18 !s100 oVS8;47@P:=La>o8_7[:@0
+Z19 I>^P2MXnbIanDVL8_d3^7_0
+Z20 VB?8Oeg3;af?HTBo[eiiZA0
+R4
+Z21 w1479872784
+Z22 8D:/Altera_Project/FSM_RGY_LIGHT_TB.v
+Z23 FD:/Altera_Project/FSM_RGY_LIGHT_TB.v
+L0 5
+R8
+r1
+!s85 0
+31
+!s108 1479872954.498000
+!s107 D:/Altera_Project/FSM_RGY_LIGHT_TB.v|
+!s90 -reportprogress|300|-work|work|-O0|D:/Altera_Project/FSM_RGY_LIGHT_TB.v|
+!s101 -O0
+R12
+Z24 n@f@s@m_@r@g@y_@l@i@g@h@t_@t@b
+vRGY_LIGHT
+Z25 !s100 ZIlmUlTe5PlUK^<GG0g[]2
+Z26 IadMN84HO[OWn^3?TlkLXc0
+Z27 Vfb;oSXdN;cK_]:1gC3f9c1
+R4
+R5
+R6
+R7
+L0 49
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z28 n@r@g@y_@l@i@g@h@t
+!i10b 1
+!s85 0
+!s101 -O0
+vSEGMENT
+Z29 !s100 KBZABn1UDMS^YC<HaC80U3
+Z30 IEOUOG6@7?831ITFU[7;b00
+Z31 V1JAV753U@<9XB;z4B37?k0
+R4
+R5
+R6
+R7
+Z32 L0 160
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z33 n@s@e@g@m@e@n@t
+!i10b 1
+!s85 0
+!s101 -O0

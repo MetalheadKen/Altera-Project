@@ -1,0 +1,18 @@
+D:/Altera_Project/FSM_RGY_LIGHT.v {1 {vlog -work work D:/Altera_Project/FSM_RGY_LIGHT.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FSM_RGY_LIGHT
+-- Compiling module DIVIDER
+-- Compiling module RGY_LIGHT
+-- Compiling module SEGMENT
+
+Top level modules:
+	FSM_RGY_LIGHT
+
+} {} {}} D:/Altera_Project/FSM_RGY_LIGHT_TB.v {1 {vlog -work work D:/Altera_Project/FSM_RGY_LIGHT_TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FSM_RGY_LIGHT_TB
+
+Top level modules:
+	--none--
+
+} {} {}}
